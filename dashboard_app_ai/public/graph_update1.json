@@ -1,0 +1,26 @@
+{
+  "status": "true",
+  "emotion_counts": {
+    "happy": 0,
+    "sad": 0,
+    "neutral": 19,
+    "angry": 0
+  },
+  "cognitive_load_levels": {
+    "high": 0,
+    "medium": 4,
+    "low": 23
+  },
+  "face_presence_confidence": {
+    "high": 60,
+    "medium": 13,
+    "low": 0
+  },
+  "attention_time_level": {
+    "high": 11,
+    "medium": 16,
+    "low": 0
+  },
+  "count_len": 1,
+  "time": 30
+}
